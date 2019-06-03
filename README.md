@@ -8,4 +8,5 @@ Natural Language Understanding systems should also know, at least approximately,
 
 We release a resource that characterizes the quantitative distribution of values mentioned in text about properties such as size, duration, weight, etc.  We aggregate the measures and corresponding mentioned values for nouns, adjectives, and verbs.  A detailed explanation of how the dataset was obtained and resuls can be found on the accompanying paper "How Large Are Lions? Inducing Distributions over Quantitative Attributes" published in ACL 2019.
 
-The resource is hosted in Google Cloud Platform.  Please click on the [link](https://console.cloud.google.com/storage/browser/measures-grounding/) to access the resource.
+The resource is hosted in Google Cloud Platform.  Please click on the [link](https://console.cloud.google.com/storage/browser/measures-grounding/) to access the dataset.  The dataset may be freely used for any purpose, although acknowledgement of Google LLC. ("Google") as the data source would be appreciated. The dataset is provided "AS IS" without any warranty, express or implied.  Google disclaims all liability for any damages, direct or indirect, resulting from the use of the dataset. 
+
